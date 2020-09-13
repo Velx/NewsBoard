@@ -3,7 +3,4 @@ from django.urls import path, include
 from news.urls import urlpatterns
 
 
-urlpatterns = [
-    path('admin/', admin.site.urls),
-    path('api/', include(urlpatterns))
-]
+urlpatterns = [path("admin/", admin.site.urls), path("api/", include(urlpatterns))]
