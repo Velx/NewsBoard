@@ -18,7 +18,7 @@ Assessment project to DevelopsToday.
 4. Now server is running on port 8000
 
 ## Postman collection
-All API endpoints in this [Postman collection](https://documenter.getpostman.com/view/5958867/TVK75zkw)
+All API endpoints documented in this [Postman collection](https://documenter.getpostman.com/view/5958867/TVK75zkw)
 
 ## Deployed version
 Server deployed on on this [domain](http://ec2-18-222-204-247.us-east-2.compute.amazonaws.com:8000)
