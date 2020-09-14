@@ -1,5 +1,5 @@
 # NewsBoard
-API documentation for assessment project to DevelopsToday.
+Assessment project to DevelopsToday.
 
 ## How to run
 1. Download repository `git clone https://github.com/Velx/NewsBoard.git`
